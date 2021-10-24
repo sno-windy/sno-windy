@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SOTA-HIGAKI
 - 👀 I’m interested in Django, TCP/IP, metaverse
-- 🌱 I’m currently learning Django, Python, cocos2d-x, TCP/IP,
+- 🌱 I’m currently learning Django, Python, cocos2d-x, TCP/IP
 
 Def init … 最も力を入れているプロダクト。プログラミング学習支援アプリケーション
 
