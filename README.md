@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=sno-windy&color=brightgreen&style=for-the-badge)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sno-windy&theme=dark
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sno-windy&theme=dark)
 
 <a href="https://github.com/sno-windy">
   <image width='38%' src="https://github-readme-stats.vercel.app/api?username=sno-windy&show_icons=true&include_all_commits=false&hide_border=true&hide=contribs&theme=vue" />
