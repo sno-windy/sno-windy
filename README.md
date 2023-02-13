@@ -25,8 +25,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/sno-windy">
   <image width='38%' src="https://github-readme-stats.vercel.app/api?username=sno-windy&show_icons=true&include_all_commits=false&hide_border=true&hide=contribs&theme=vue" />
 </a>
+
 <a href="https://github.com/sno-windy">
   <image width='60%' src="https://cdn.jsdelivr.net/gh/mozillazg/mozillazg@github-contribution-grid-snake/github-contribution-grid-snake.svg" />
 </a>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=sno-windy&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
