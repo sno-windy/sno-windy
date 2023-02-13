@@ -9,7 +9,7 @@ Def init … プログラミング学習支援アプリケーション
 -->
 
 <!--
-**SOTA-HIGAKI/SOTA-HIGAKI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sno-windy/sno-windy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=sno-windy&color=brightgreen&style=for-the-badge)
 
 <a href="https://github.com/sno-windy">
   <image width='38%' src="https://github-readme-stats.vercel.app/api?username=sno-windy&show_icons=true&include_all_commits=false&hide_border=true&hide=contribs&theme=vue" />
@@ -27,4 +28,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/sno-windy">
   <image width='60%' src="https://cdn.jsdelivr.net/gh/mozillazg/mozillazg@github-contribution-grid-snake/github-contribution-grid-snake.svg" />
 </a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=sno-windy&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
