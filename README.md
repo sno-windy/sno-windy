@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 -->
 ![](https://komarev.com/ghpvc/?username=sno-windy&color=brightgreen&style=for-the-badge)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sno-windy&theme=dark)
-
 <a href="https://github.com/sno-windy">
   <image width='38%' src="https://github-readme-stats.vercel.app/api?username=sno-windy&show_icons=true&include_all_commits=false&hide_border=true&hide=contribs&theme=vue" />
 </a>
@@ -33,4 +31,6 @@ Here are some ideas to get you started:
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sno-windy&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sno-windy&theme=dark)
 
