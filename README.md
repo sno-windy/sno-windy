@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <image width='60%' src="https://cdn.jsdelivr.net/gh/mozillazg/mozillazg@github-contribution-grid-snake/github-contribution-grid-snake.svg" />
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sno-windy&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=sno-windy&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sno-windy&theme=dark)
 
